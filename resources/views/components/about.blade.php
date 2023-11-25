@@ -22,14 +22,13 @@
             <div class="col-xl-7 col-md-6">
               <div class="about_text">
                 <p class="description text-anim">
-                  Hello! I’m David Petrix. Web designer from USA, California,
-                  San Francisco. I have rich experience in web site design and
-                  building, lso I am good at wordpress. I love to talk with you
+                  Hello! I’m Emran Sikder. Web Developer from Bangladesh. I have rich experience in web Design and
+                  Development, I am Good at Laravel and Wordpress. I love to talk with you
                   about our unique.
                 </p>
                 <ul>
                   <li class="fade_right" data-trigerId="about">
-                    <h2><span class="counter">12</span>+</h2>
+                    <h2><span class="counter">4</span>+</h2>
                     <p>Years of experience</p>
                   </li>
                   <li class="fade_right" data-trigerId="about">
@@ -37,7 +36,7 @@
                     <p>Successful Projects</p>
                   </li>
                   <li class="fade_right" data-trigerId="about">
-                    <h2><span class="counter">20</span>+</h2>
+                    <h2><span class="counter">12</span>+</h2>
                     <p>Honors and Awards</p>
                   </li>
                 </ul>

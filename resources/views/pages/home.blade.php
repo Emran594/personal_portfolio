@@ -28,10 +28,8 @@
                     recruitment.
                   </p>
                   <ul class="d-flex flex-wrap">
-                    <li><a href="#">Facebook</a></li>
-                    <li><a href="#">. Twitter</a></li>
-                    <li><a href="#">. Linkedin</a></li>
-                    <li><a href="#">. Dribbble</a></li>
+                    <li><a href="https://www.facebook.com/emran.sikder.737">Facebook</a></li>
+                    <li><a href="https://www.linkedin.com/in/emran-sikder-3b3697122/">. Linkedin</a></li>
                   </ul>
                 </div>
               </div>
@@ -49,4 +47,6 @@
   </section>
     @include('components.about')
     @include('components.skill')
+    @include('components.experience')
+    @include('components.award')
 @endsection
