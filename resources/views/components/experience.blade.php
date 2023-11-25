@@ -13,29 +13,29 @@
                 <ul>
                   <li>
                     <div class="title">
-                      <span>2015 - 2017</span>
+                      <span>2017</span>
                     </div>
                     <div class="title">
-                      <h3>Programming Course</h3>
-                      <p>Harvard University</p>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="title">
-                      <span>2014 - 2015</span>
-                    </div>
-                    <div class="title">
-                      <h3>Cognitive Sciences</h3>
-                      <p>University of California</p>
+                      <h3>Depertment of Mathematics</h3>
+                      <p>Kavi Nazrul Gov.College</p>
                     </div>
                   </li>
                   <li>
                     <div class="title">
-                      <span>2013 - 2014</span>
+                      <span>2012</span>
                     </div>
                     <div class="title">
-                      <h3>Web Design Course</h3>
-                      <p>Bigtown, England</p>
+                      <h3>HSC</h3>
+                      <p>Cumilla Board</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="title">
+                      <span>2010</span>
+                    </div>
+                    <div class="title">
+                      <h3>SSC</h3>
+                      <p>Cumilla Board</p>
                     </div>
                   </li>
                 </ul>
@@ -50,29 +50,29 @@
                 <ul>
                   <li>
                     <div class="title">
-                      <span>2022 - Present</span>
+                      <span>2021 - Present</span>
                     </div>
                     <div class="title">
-                      <h3>Envato Elements</h3>
-                      <p>Exclusive Author</p>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="title">
-                      <span>2018 - 2021</span>
-                    </div>
-                    <div class="title">
-                      <h3>Leader Team of Marketing</h3>
-                      <p>Head of Department</p>
+                      <h3>Lead Programmer</h3>
+                      <p>Hovata Technologies</p>
                     </div>
                   </li>
                   <li>
                     <div class="title">
-                      <span>2013 - 2014</span>
+                      <span>2017 - 2018</span>
                     </div>
                     <div class="title">
-                      <h3>Head of UX Engineering</h3>
-                      <p>Webflow</p>
+                      <h3>Implementation</h3>
+                      <p>BelivIt</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="title">
+                      <span>2014 - 2015</span>
+                    </div>
+                    <div class="title">
+                      <h3>Management Information System (MIS) </h3>
+                      <p>Omicon Group Of Industries</p>
                     </div>
                   </li>
                 </ul>
