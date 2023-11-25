@@ -35,7 +35,7 @@
     =========================-->
     <nav class="navbar navbar-expand-lg main_menu">
       <div class="container container_large">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="{{ '/' }}">
           <img src="images/logo.png" alt="Petrix" class="img-fluid" >
         </a>
         <button
@@ -53,30 +53,30 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav m-auto">
             <li class="nav-item">
-              <a class="nav-link active text_hover_animaiton" href="index.html"
+              <a class="nav-link active text_hover_animaiton" href="{{ '/' }}"
                 >Home
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text_hover_animaiton" href="about_us.html"
+              <a class="nav-link text_hover_animaiton" href="{{ ('/about') }}"
                 >About Me</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link text_hover_animaiton" href="#"
+              <a class="nav-link text_hover_animaiton" href="{{ ('/portfolio') }}"
                 >Portfolio
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text_hover_animaiton" href="#"
+              <a class="nav-link text_hover_animaiton" href="{{ ('/services') }}"
                 >Services</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text_hover_animaiton" href="#"
+              <a class="nav-link text_hover_animaiton" href="{{ ('/blog') }}"
                 >Blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text_hover_animaiton" href="contact_us.html"
+              <a class="nav-link text_hover_animaiton" href="{{ ('/contact') }}"
                 >Contact</a
               >
             </li>
